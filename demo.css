@@ -1,0 +1,19 @@
+.a{color: white; background-color:grey;text-align: left;font-size: .5cm;border-radius: 2px; }
+.a:hover{background-color: rgb(36, 7, 163); color:black;}
+img{align-self: right;}
+font{font-size: .5cm;}
+.b{padding: 1cm; text-align: center;border-style: hidden;}
+table{height: 6cm;width: 20cm;border-style: inset;border-radius: 8px;}
+.x{text-align: center; border-style: hidden;}
+.p{align-content: center;}
+.q{align-content: center;margin-left: .5cm;}
+.c{border-style: hidden;}
+.d{border-style: hidden;padding-left: .35cm;}
+.e{border-style: hidden;}
+button
+{
+    float:right;
+    background: none;
+    outline: none;
+    border: none;
+}
